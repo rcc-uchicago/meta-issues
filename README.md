@@ -1,10 +1,13 @@
 ## Issue tracking across repos
 
-See [`waffle.io/rcc-uchicago/meta`](https://waffle.io/rcc-uchicago/meta) for demo of integrated issue tracking across project work.
+> UPDATE: we discovered that github provides multi-repo issue tracking for
+> organizations via the [issue dashboard](https://github.com/issues?user=rcc-uchicago)!
 
 ---
 
 We're currently testing [multi-repo support](https://waffle.io/blog/2014/04/23/get-more-done-with-multi-repo-support/) in [waffle.io](http://waffle.io/).
+
+See [`waffle.io/rcc-uchicago/meta`](https://waffle.io/rcc-uchicago/meta) for demo of integrated issue tracking across project work.
 
 Ultimately looking for a configurable dashboard view of all `rcc-uchicago` repo activity, showing commits, issues, and milestones across critical repos.
 
